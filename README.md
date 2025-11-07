@@ -1,7 +1,7 @@
 # Hallo, ich bin Athanasios!
 
 Ich lerne Softwareentwicklung und dokumentiere hier meine ersten Projekte.  
-Aktuell konzentriere ich mich auf **C#** und die Grundlagen der Programmierung.
+Aktuell konzentriere ich mich auf **C#** und die Grundlagen der prozeduralen Programmierung.
 
 ## Über mich
 - Anfänger in der Softwareentwicklung  
