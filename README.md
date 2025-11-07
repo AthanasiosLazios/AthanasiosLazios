@@ -9,7 +9,7 @@ Aktuell konzentriere ich mich auf **C#** und die Grundlagen der prozeduralen Pro
 - Lerne jeden Tag durch kleine Projekte 
 
 ## Aktuelle Projekte
-- Entscheidungshilfe Programm
+- Entscheidungshilfe-Programm
 - Geheimzahl erraten  
 - Weitere kleine Projekte folgen
 
