@@ -6,7 +6,8 @@ Aktuell konzentriere ich mich auf **C#** und die Grundlagen der prozeduralen Pro
 ## Über mich
 - Anfänger in der Softwareentwicklung  
 - Interessiert an C#, .NET und Backend-Grundlagen  
-- Lerne jeden Tag durch kleine Projekte 
+- Lerne jeden Tag durch kleine Projekte
+- Wirtschaftsinformatik-Student an der Technischen Hochschule Nürnberg
 
 ## Aktuelle Projekte
 - Entscheidungshilfe-Programm
