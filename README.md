@@ -11,7 +11,8 @@ Aktuell konzentriere ich mich auf **C#** und die Grundlagen der prozeduralen Pro
 
 ## Aktuelle Projekte
 - Entscheidungshilfe-Programm
-- Geheimzahl erraten  
+- Geheimzahl erraten
+- Vereinsbeitrag
 - Weitere kleine Projekte folgen
 
 ## Meine Skills
